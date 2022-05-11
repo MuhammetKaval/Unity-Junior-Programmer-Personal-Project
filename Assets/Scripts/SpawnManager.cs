@@ -8,7 +8,7 @@ public class SpawnManager : MonoBehaviour
     public GameObject powerUp;
 
     private float zEnmeySpawn = 12.0f;
-    private float xSpawnRange = 16.0f;
+    private float xSpawnRange = 12.0f;
     private float zPowerUpRange = 5.0f;
     private float ySpawn = 0.75f;
 
